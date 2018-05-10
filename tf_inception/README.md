@@ -1,0 +1,1 @@
+Sample of using OpenCV dnn module with Tensorflow Inception model.
